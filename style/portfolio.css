@@ -97,3 +97,46 @@ nav ul li a{
 .bannar-img{
     width: 600px;
 }
+
+/* About section style */
+
+.about-me{
+    max-width: 1140px;
+    margin: 150px auto;
+    background-color: #FFF8F3;
+    padding: 130px 150px;
+    text-align: center;
+    
+}
+
+.about-me-section{
+    border: 1px solid black;
+    max-width: 830px;
+    padding: 5px;
+    
+}
+
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-title{
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.about-decrip{
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.item-title{
+    opacity: 0.6;
+}
+
+.item-descrip{
+    font-weight: 800;
+}
